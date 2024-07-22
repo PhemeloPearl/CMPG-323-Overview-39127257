@@ -9,7 +9,7 @@ Welcome to the repository for CMPG 323 Overview. This repository is organized to
 Each project in this course will have its own dedicated repository on GitHub. Below is the list of projects and their corresponding repositories:
 
 1. **Project 1**
-   - Repository: [Link to Project 1 Repository](link_to_project_1_repo)
+   - Repository: [Link to Project 1 Repository]([link_to_project_1_repo](https://github.com/PhemeloPearl/CMPG-323-Overview-39127257-))
 
 2. **Project 2**
    - Repository: [Link to Project 2 Repository](link_to_project_2_repo)
