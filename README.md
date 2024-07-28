@@ -31,11 +31,7 @@ For detailed documentation of each project, please refer to the respective proje
 
 ## Branching Strategy
 
-Each project repository will follow a branching strategy to facilitate collaborative development and version control. The recommended branching strategy includes:
-
-- **Main Branch:** Main branch (e.g., `main` or `master`) for stable, production-ready code.
-- **Development Branch:** Development branch (e.g., `develop`) for ongoing development and integration of features.
-- **Feature Branches:** Feature branches (named descriptively, e.g., `feature/new-feature`) for developing new features or fixes.
+Branching strategy is crucial for enabling developers to collaborate effectively on projects, track changes efficiently, and manage multiple versions of the codebase. There are various Git branching strategies available, each with its own set of pros and cons. Among these, I have chosen to use the GitFlow branching strategy. This strategy aims to enhance productivity by ensuring proper coordination among developers and supporting parallel development, allowing multiple features and bug fixes to be worked on simultaneously. It also helps organize releases in a planned and structured manner, providing a systematic approach to version control. The GitFlow strategy includes several key branches, with the **Master** branch containing the production-ready code and the **Develop** branch serving as the integration point for features and fixes before they are ready for production. This approach not only streamlines the development process but also maps a clear path from making changes in the software to deploying those changes in a production environment. Overall, GitFlow facilitates a well-defined workflow that supports efficient and organized software development.
 
 ## .gitignore File
 
