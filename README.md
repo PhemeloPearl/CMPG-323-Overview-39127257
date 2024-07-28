@@ -36,3 +36,19 @@ Branching strategy is crucial for enabling developers to collaborate effectively
 ## .gitignore File
 
 The `.gitignore` file is used in Git to specify which files and directories Git should ignore, preventing them from being tracked in the repository. It helps keep the repository clean by excluding temporary and system files, such as `.DS_Store` on macOS or `Thumbs.db` on Windows. It also ignores editor and IDE-specific files like `*.swp` from Vim and `*.sublime-workspace` from Sublime Text. Build artifacts, such as compiled code and build directories, are often ignored to avoid cluttering the repository. Logs and database files, including `*.log` and `*.sqlite`, are also typically excluded. Dependency and environment files, such as `node_modules/` for Node.js and `venv/` for Python, are ignored to prevent unnecessary files from being tracked. Configuration files and environment variables, which may contain sensitive information, should be excluded for security reasons. Pre-made `.gitignore` templates for various languages and tools can be used as a starting point. Customizing the `.gitignore` file to fit the specific needs of your project ensures that only relevant files are tracked. Properly managing the `.gitignore` file helps maintain a clean and efficient repository.
+
+## Storage of Credentials and sensitive information
+
+Storing credentials and sensitive information in a secure and responsible manner is crucial to protect your data and prevent unauthorized access.
+
+Storage credentials and sensitive protection of information that will be implemented:
+
+Avoiding Hardcoding Credentials
+
+The Use Environment Variables
+
+Configuration Of Files
+
+Version-Controlled Template
+
+Most credentials will be stored using the Git Credential Manager (GCM) is another way to store your credentials securely and connect to GitHub over HTTPS.
