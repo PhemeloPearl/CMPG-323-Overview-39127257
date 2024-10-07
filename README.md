@@ -18,7 +18,7 @@ Each project in this course will have its own dedicated repository on GitHub. Be
    - Repository: [[Link to Project 3 Repository](link_to_project_3_repo)](https://github.com/PhemeloPearl/CMPG-323-Project-3---39127257)
 
 4. **Project 4**
-   - Repository: [Link to Project 4 Repository](link_to_project_4_repo)
+   - Repository: [[Link to Project 4 Repository](link_to_project_4_repo)](https://github.com/PhemeloPearl/CMPG-323-Project-4---39127257)
 
 5. **Project 5**
    - Repository: [Link to Project 5 Repository](link_to_project_5_repo)
